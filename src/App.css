@@ -1,0 +1,21 @@
+.nav-container{
+    background-color: rgba(128, 128, 128, 0.621);
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.nav-left{
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-right{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}

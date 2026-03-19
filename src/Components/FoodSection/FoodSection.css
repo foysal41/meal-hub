@@ -1,0 +1,18 @@
+.food-container-parent{
+    display: flex;
+    max-width: 80%;
+    margin: 0 auto;
+    gap: 40px;
+}
+
+.foods-container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    width: 80%;
+}
+
+
+.cart-container{
+    width: 20%;
+}
